@@ -7,6 +7,7 @@ header {
     border-radius: 100px;
     text-align: center;
     color: purple;
+    font-family: 'Fredoka One', cursive;
 }
 
 .nameText {
@@ -16,6 +17,7 @@ header {
     text-align: center;
     margin-left: 150px;
     margin-right: 150px;
+    font-family: 'Fredoka One', cursive;
 }
 
 .imageDesc {
@@ -25,6 +27,7 @@ header {
     text-align: center;
     margin-left: 150px;
     margin-right: 150px;
+    font-family: 'Fredoka One', cursive;
 }
 
 .bus {
