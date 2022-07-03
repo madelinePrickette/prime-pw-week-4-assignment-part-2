@@ -1,13 +1,41 @@
+body {
+    background-color:rgb(254, 250, 242);
+}
+
 header {
-    background-color: magenta;
+    background-color: rgb(255, 88, 255);
+    border-radius: 100px;
+    text-align: center;
+    color: purple;
 }
 
 .nameText {
     background-color: orange;
     color: orangered;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .imageDesc {
     background-color: pink;
     color: palevioletred;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.bus {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 550px;
+    border-radius: 600px;
+}
+
+.infoDiv {
+    border: 30px dotted lightgreen;
+    border-radius: 550px;
 }
